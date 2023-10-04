@@ -1,0 +1,15 @@
+{
+  "name": "pdf2xls",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Asep Indra Kurniawan",
+  "license": "ISC",
+  "dependencies": {
+    "fresh-tabula-js": "^2.0.0",
+    "pdf-to-excel": "^0.3.2"
+  }
+}
